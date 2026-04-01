@@ -452,7 +452,6 @@
 }
 .elementor-11619 .elementor-element.elementor-element-1b4af70 .elementor-divider-separator {
   margin:0 auto;
-  margin-center:0;
 }
 .elementor-11619 .elementor-element.elementor-element-1b0a9b3 {
   width:var( --container-widget-width, 49% );
@@ -2489,7 +2488,6 @@
 .elementor-11619 .elementor-element.elementor-element-18da104 .elementor-divider-separator {
   width:100%;
   margin:0 auto;
-  margin-center:0;
 }
 .elementor-11619 .elementor-element.elementor-element-18da104 .elementor-divider {
   text-align:center;
@@ -2913,7 +2911,6 @@
 .elementor-11619 .elementor-element.elementor-element-14ee786 .elementor-divider-separator {
   width:100%;
   margin:0 auto;
-  margin-center:0;
 }
 .elementor-11619 .elementor-element.elementor-element-14ee786 .elementor-divider {
   text-align:center;
@@ -3356,7 +3353,6 @@
   }
   .elementor-11619 .elementor-element.elementor-element-1b4af70 .elementor-divider-separator {
     margin:0 auto;
-    margin-center:0;
   }
   .elementor-11619 .elementor-element.elementor-element-1b0a9b3 > .elementor-widget-container {
     margin:0px 0px 15px 0px;
@@ -3731,7 +3727,6 @@
   }
   .elementor-11619 .elementor-element.elementor-element-ee840c7 .elementor-divider-separator {
     margin:0 auto;
-    margin-center:0;
   }
   .elementor-11619 .elementor-element.elementor-element-a597b52 > .elementor-widget-container {
     margin:0px 0px 15px 0px;
@@ -3928,7 +3923,6 @@
   }
   .elementor-11619 .elementor-element.elementor-element-2351523 .elementor-divider-separator {
     margin:0 auto;
-    margin-center:0;
   }
   .elementor-11619 .elementor-element.elementor-element-f938fbd > .elementor-widget-container {
     margin:0px 0px 15px 0px;
@@ -4086,31 +4080,31 @@
   }
 }
 /* Start custom CSS for text-editor, class: .elementor-element-f669576 */.gradient-text2  {
-  background: -webkit-linear-gradient(45deg, #fed700, #d20401);
+  background-clip: -webkit-linear-gradient(45deg, #fed700, #d20401);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 /* End custom CSS */
 /* Start custom CSS for text-editor, class: .elementor-element-ef181e6 */.gradient-text1  {
-  background: -webkit-linear-gradient(45deg, #000000, #232323);
+  background-clip: -webkit-linear-gradient(45deg, #000000, #232323);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 /* End custom CSS */
 /* Start custom CSS for text-editor, class: .elementor-element-e6d4d73 */.gradient-text2  {
-  background: -webkit-linear-gradient(45deg, #fed700, #d20401);
+  background-clip: -webkit-linear-gradient(45deg, #fed700, #d20401);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 /* End custom CSS */
 /* Start custom CSS for text-editor, class: .elementor-element-8b3fa07 */.gradient-text2  {
-  background: -webkit-linear-gradient(45deg, #fed700, #d20401);
+  background-clip: -webkit-linear-gradient(45deg, #fed700, #d20401);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 /* End custom CSS */
 /* Start custom CSS for text-editor, class: .elementor-element-2636dfc */.gradient-text2  {
-  background: -webkit-linear-gradient(45deg, #fed700, #d20401);
+  background-clip: -webkit-linear-gradient(45deg, #fed700, #d20401);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
