@@ -17972,7 +17972,7 @@ dd,dl,dt,li,ol,ul {
   vertical-align:baseline;
   background:transparent
 }
-@charset "UTF-8";
+
 .comments-area a,.page-content a {
   text-decoration:underline
 }
@@ -18217,7 +18217,7 @@ body.rtl #comments ol.comment-list .children:before,html[dir=rtl] #comments ol.c
 .site-header+.elementor {
   min-height:calc(100vh - 320px)
 }
-@charset "UTF-8";
+
 .site-header {
   display:flex;
   flex-wrap:wrap;
@@ -21097,7 +21097,7 @@ div.asl_s.searchsettings form {
 }
 div.asl_s.searchsettings .asl_option_inner {
   margin:2px 10px 0 10px;
-  *padding-bottom:10px
+  padding-bottom: 10px;
 }
 div.asl_s.searchsettings.ie78 .asl_option_inner {
   margin-bottom:0!important;

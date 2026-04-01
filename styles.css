@@ -18899,8 +18899,7 @@ body.elementor-page .elementor-widget-menu-anchor {
   --widgets-spacing-row:20px;
   --widgets-spacing-column:20px;
 }
- {
-}
+
 h1.entry-title {
   display:var(--page-title-display);
 }
